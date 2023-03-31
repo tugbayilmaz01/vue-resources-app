@@ -1,5 +1,5 @@
 <template>
-  <the-header title="RememberMe"></the-header>
+  <the-header title="ResourcesApp"></the-header>
   <the-resources></the-resources>
 </template>
 
